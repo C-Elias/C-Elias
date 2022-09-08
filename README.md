@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm !
+
+Who am I?
+💻 Full Stack Web Developer
+📚 I just did a bootcamp - Le Wagon - Rio de Janeiro
+👩‍🎓 Background in Finance & Real Estate 
+
+Skills 👩‍💻
+💎 RUBY
+🧮 JSON
+🔮 AJAX
+🗄 SQL
+🐘 PostgreSQL
+🎨 CSS
+⚡ JAVASCRIPT
+
+
+Languages:
+English (native)
+French (native)
+Italian (native)
+Arabic (beginner)
