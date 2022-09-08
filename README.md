@@ -3,10 +3,10 @@
 
 
 
-## Who am I?
+## Background
 
 - 💻 Full Stack Web Developer
-- 📚 I just did a bootcamp - Le Wagon - Rio de Janeiro
+- 📚 Bootcamp - Le Wagon - Rio de Janeiro
 - 👩‍🎓 Background in Finance & Real estate
 
 
