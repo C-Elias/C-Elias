@@ -29,5 +29,5 @@
 - Italian (fluent)
 
 
-![Snake animation](https://github.com/Santos1000/C-Elias/blob/output/github-contribution-grid-snake.svg)
-<!-- ![snake gif](https://github.com/Santos1000/C-Elias/blob/output/github-contribution-grid-snake.gif) -->
+![Snake animation](https://github.com/C-Elias/C-Elias/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/C-Elias/C-Elias/blob/output/github-contribution-grid-snake.gif) -->
