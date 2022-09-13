@@ -5,7 +5,7 @@
 
 ## Background
 
-- 💻 Full Stack Web Developer
+- 💻 Full Stack Developer
 - 📚 Bootcamp - Le Wagon - Rio de Janeiro
 - 👩‍🎓 Background in Finance & Real estate
 
