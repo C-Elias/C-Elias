@@ -31,7 +31,7 @@
 
 ![Snake animation](https://github.com/C-Elias/C-Elias/blob/output/github-contribution-grid-snake.svg)
 <!-- ![snake gif](https://github.com/C-Elias/C-Elias/blob/output/github-contribution-grid-snake.gif) -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-elias&show_icons=true&locale=en&layout=compact" alt="c-elias" /></p>
+<p><img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-elias&show_icons=true&locale=en&layout=compact" alt="c-elias" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c-elias&show_icons=true&locale=en" alt="c-elias" /></p>
 
 
