@@ -32,10 +32,6 @@
 ![Snake animation](https://github.com/C-Elias/C-Elias/blob/output/github-contribution-grid-snake.svg)
 <!-- ![snake gif](https://github.com/C-Elias/C-Elias/blob/output/github-contribution-grid-snake.gif) -->
 
-
-<h1 align="center">Hi 👋, I'm Elias</h1>
-<h3 align="center">A passionate full stack developer from Canada</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c-elias&label=Profile%20views&color=0e75b6&style=flat" alt="c-elias" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c-elias" alt="c-elias" /></a> </p>
