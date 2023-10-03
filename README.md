@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
-<h3 align="center">A passionate full stack developer from Canada</h3>
 
-
-
-## Background
-
-- 💻 Full Stack Developer
-- 📚 Bootcamp - Le Wagon - Rio de Janeiro
-- 👩‍🎓 Background in Finance & Real estate
 
 
 ## Technology & Tools 
